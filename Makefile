@@ -1,0 +1,5 @@
+tailwindcss:
+	npx tailwindcss -i ./input.css -o ./output.css --watch
+
+
+.PHONY: tailwindcss
